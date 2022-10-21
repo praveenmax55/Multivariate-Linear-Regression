@@ -46,8 +46,6 @@ print("Predicted co2 for the coressponding weight and volume ",predictedco2)
 ```
 ## Output:
 
-### Insert your output
-
 <br>![output](./output1.png)
 
 ## Result
